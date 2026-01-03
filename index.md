@@ -1,3 +1,3 @@
-# studio-vscode-docs
+# ZONTAL Studio
 
-Documentation of ZONTAL Studio vscode extensions
+Documentation of the [ZONTAL Studio vscode extensions](https://marketplace.visualstudio.com/publishers/ZONTAL)
